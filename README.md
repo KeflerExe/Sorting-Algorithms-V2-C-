@@ -12,7 +12,7 @@ These algorithms provide a versatile toolkit for sorting data efficiently, wheth
 This version implements a few more sorting methods that are not implemented in V1 version.
 
 ```diff
-- **Keep in mind that the way of implementing the sorting methods is different too.**
+- Keep in mind that the way of implementing the sorting methods is different too.
 ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
