@@ -9,7 +9,7 @@
 This repository hosts a collection of efficient sorting algorithms, designed to organize data quickly and effectively. It includes techniques like: Radix Sort, Shell Sort, Heap Sort, Quick Sort, and Selection Sort. 
 These algorithms provide a versatile toolkit for sorting data efficiently, whether you're working with integers, strings, or custom data types.
 
-This version implements a few more sorting methods that are not implemented in V1[https://github.com/KeflerExe/Sorting-Algorithms-C-v1] version.
+This version implements a few more sorting methods that are not implemented in [V1 version.](https://github.com/KeflerExe/Sorting-Algorithms-C-v1)
 
 ```diff
 - Keep in mind that the way of implementing the sorting methods is different too.
