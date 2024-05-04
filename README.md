@@ -10,8 +10,10 @@ This repository hosts a collection of efficient sorting algorithms, designed to 
 These algorithms provide a versatile toolkit for sorting data efficiently, whether you're working with integers, strings, or custom data types.
 
 This version implements a few more sorting methods that are not implemented in V1 version.
-**Keep in mind that the way of implementing the sorting methods is different too.**
 
+```diff
+- **Keep in mind that the way of implementing the sorting methods is different too.**
+```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
